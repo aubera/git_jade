@@ -1,5 +1,5 @@
-function future(){
-  console.log('Vízöntő');
+function future(param){
+  console.log(param);
 }
 
-future();
+future(param);
