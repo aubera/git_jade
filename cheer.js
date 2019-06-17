@@ -1,5 +1,5 @@
 function cheer() {
-  console.log("Jade")
+  console.log("JavaScript");
 }
 
-cheer()
+cheer();
