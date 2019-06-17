@@ -1,5 +1,5 @@
 function future(){
-  console.log('Vízöntő');
+  console.log('Chinese Horoscope sign');
 }
 
 future();
