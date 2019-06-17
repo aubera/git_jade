@@ -1,5 +1,5 @@
-function future(param){
-  console.log(param);
+function future(){
+  console.log('Chinese Horoscope sign');
 }
 
 future(param);

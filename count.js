@@ -2,7 +2,7 @@
 
 let myAge = 30;
 
-function count(age) {
-  console.log(age);
+function count(month) {
+  console.log(month);
 }
-count(myAge);
+count(7);
