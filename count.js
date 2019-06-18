@@ -3,7 +3,7 @@
 let myAge = 30;
 const myMonth = 12;
 
-function count(month, year) {
-  console.log(month, year);
+function count(month) {
+  console.log(`Counting the countless ${month}`)
 }
-count(myAge, myMonth);
+count('august');
