@@ -1,5 +1,5 @@
-function cheer() {
-  console.log("JavaScript");
+function cheer(parameter) {
+  console.log('Cheer for the' + parameter);
 }
 
-cheer();
+cheer('tictac');
