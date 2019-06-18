@@ -1,8 +1,9 @@
 'use strict';
 
 let myAge = 30;
+const myMonth = 12;
 
-function count(month) {
-  console.log(month);
+function count(month, year) {
+  console.log(month, year);
 }
-count(7);
+count(myAge, myMonth);
